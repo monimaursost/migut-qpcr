@@ -1,0 +1,114 @@
+Title:,
+Date/Time:,19/03/2026 11:27:38,19/03/2026 11:27:38
+Device:,qTOWER96.iris.mock,3107D-1252
+Operator:,
+Comments:,
+Colors+Dyes:,Pos,Color Module,Dye,Gain,Meas,Refr
+,1,Blue.470.520.11.3,SybrGreen,5,*,
+Heated Lid:,100°C
+TC Protocol:,steps,scan,°C,m:s,goto,loops,delta Temp(°C),delta Time (s),ramp (°C/s
+,1,,95,10:00,0,0,0,0,8
+,2,,95,00:10,0,0,0,0,8
+,3,,60,00:45,0,0,0,0,6
+,4,*,72,00:20,2,39,0,0,6
+Melt active:,No
+Meas. Repeats:,3
+Color Comp.:,
+
+Well,,Sample name,Sample type,Dye,Gene,Ct,Mean Ct,Std. dev. Ct
+A1,,,Standard,SybrGreen,,6.33,6.33,0.00
+A2,,,Standard,SybrGreen,,6.48,6.48,0.00
+A3,,,Standard,SybrGreen,,7.69,7.69,0.00
+A4,,,Standard,SybrGreen,,7.68,7.68,0.00
+A5,,,Standard,SybrGreen,,10.08,10.08,0.00
+A6,,,Standard,SybrGreen,,10.60,10.60,0.00
+A7,,,Standard,SybrGreen,,14.02,14.02,0.00
+A8,,,Standard,SybrGreen,,14.15,14.15,0.00
+A9,,,Standard,SybrGreen,,17.47,17.47,0.00
+A10,,,Standard,SybrGreen,,17.24,17.24,0.00
+A11,,,Standard,SybrGreen,,20.33,20.33,0.00
+A12,,,Standard,SybrGreen,,20.54,20.54,0.00
+B1,,,Standard,SybrGreen,,23.23,23.23,0.00
+B2,,,Standard,SybrGreen,,23.95,23.95,0.00
+B3,,,Standard,SybrGreen,,27.83,27.83,0.00
+B4,,,Standard,SybrGreen,,27.79,27.79,0.00
+B5,,,NTC,SybrGreen,,No Ct,,
+B6,,,NTC,SybrGreen,,No Ct,,
+B7,,,Unknown,SybrGreen,,25.59,25.59,0.00
+B8,,,Unknown,SybrGreen,,25.30,25.30,0.00
+B9,,,Unknown,SybrGreen,,35.36,35.36,0.00
+B10,,,Unknown,SybrGreen,,35.35,35.35,0.00
+B11,,,Unknown,SybrGreen,,33.70,33.70,0.00
+B12,,,Unknown,SybrGreen,,34.10,34.10,0.00
+C1,,,Unknown,SybrGreen,,33.52,33.52,0.00
+C2,,,Unknown,SybrGreen,,33.15,33.15,0.00
+C3,,,Unknown,SybrGreen,,33.15,33.15,0.00
+C4,,,Unknown,SybrGreen,,33.08,33.08,0.00
+C5,,,Unknown,SybrGreen,,32.56,32.56,0.00
+C6,,,Unknown,SybrGreen,,32.82,32.82,0.00
+C7,,,Unknown,SybrGreen,,34.34,34.34,0.00
+C8,,,Unknown,SybrGreen,,34.32,34.32,0.00
+C9,,,Unknown,SybrGreen,,32.20,32.20,0.00
+C10,,,Unknown,SybrGreen,,32.21,32.21,0.00
+C11,,,Unknown,SybrGreen,,31.96,31.96,0.00
+C12,,,Unknown,SybrGreen,,31.05,31.05,0.00
+D1,,,Unknown,SybrGreen,,38.66,38.66,0.00
+D2,,,Unknown,SybrGreen,,No Ct,,
+D3,,,Unknown,SybrGreen,,33.20,33.20,0.00
+D4,,,Unknown,SybrGreen,,33.18,33.18,0.00
+D5,,,Unknown,SybrGreen,,32.16,32.16,0.00
+D6,,,Unknown,SybrGreen,,31.53,31.53,0.00
+D7,,,Unknown,SybrGreen,,33.13,33.13,0.00
+D8,,,Unknown,SybrGreen,,31.60,31.60,0.00
+D9,,,Unknown,SybrGreen,,34.55,34.55,0.00
+D10,,,Unknown,SybrGreen,,34.27,34.27,0.00
+D11,,,Unknown,SybrGreen,,29.67,29.67,0.00
+D12,,,Unknown,SybrGreen,,30.38,30.38,0.00
+E1,,,Unknown,SybrGreen,,35.35,35.35,0.00
+E2,,,Unknown,SybrGreen,,37.00,37.00,0.00
+E3,,,Unknown,SybrGreen,,35.53,35.53,0.00
+E4,,,Unknown,SybrGreen,,33.56,33.56,0.00
+E5,,,Unknown,SybrGreen,,32.26,32.26,0.00
+E6,,,Unknown,SybrGreen,,33.24,33.24,0.00
+E7,,,Unknown,SybrGreen,,39.18,39.18,0.00
+E8,,,Unknown,SybrGreen,,36.02,36.02,0.00
+E9,,,Unknown,SybrGreen,,33.67,33.67,0.00
+E10,,,Unknown,SybrGreen,,33.29,33.29,0.00
+E11,,,Unknown,SybrGreen,,32.87,32.87,0.00
+E12,,,Unknown,SybrGreen,,33.70,33.70,0.00
+F1,,,Unknown,SybrGreen,,33.52,33.52,0.00
+F2,,,Unknown,SybrGreen,,33.58,33.58,0.00
+F3,,,Unknown,SybrGreen,,34.19,34.19,0.00
+F4,,,Unknown,SybrGreen,,33.19,33.19,0.00
+F5,,,Unknown,SybrGreen,,32.53,32.53,0.00
+F6,,,Unknown,SybrGreen,,33.10,33.10,0.00
+F7,,,Unknown,SybrGreen,,35.06,35.06,0.00
+F8,,,Unknown,SybrGreen,,34.90,34.90,0.00
+F9,,,Unknown,SybrGreen,,33.55,33.55,0.00
+F10,,,Unknown,SybrGreen,,33.49,33.49,0.00
+F11,,,Unknown,SybrGreen,,35.15,35.15,0.00
+F12,,,Unknown,SybrGreen,,37.86,37.86,0.00
+G1,,,Unknown,SybrGreen,,35.02,35.02,0.00
+G2,,,Unknown,SybrGreen,,33.27,33.27,0.00
+G3,,,Unknown,SybrGreen,,31.17,31.17,0.00
+G4,,,Unknown,SybrGreen,,30.73,30.73,0.00
+G5,,,Unknown,SybrGreen,,33.55,33.55,0.00
+G6,,,Unknown,SybrGreen,,35.65,35.65,0.00
+G7,,,Unknown,SybrGreen,,33.21,33.21,0.00
+G8,,,Unknown,SybrGreen,,33.37,33.37,0.00
+G9,,,Unknown,SybrGreen,,31.90,31.90,0.00
+G10,,,Unknown,SybrGreen,,32.07,32.07,0.00
+G11,,,Unknown,SybrGreen,,34.17,34.17,0.00
+G12,,,Unknown,SybrGreen,,33.14,33.14,0.00
+H1,,,Unknown,SybrGreen,,32.86,32.86,0.00
+H2,,,Unknown,SybrGreen,,31.09,31.09,0.00
+H3,,,Unknown,SybrGreen,,33.18,33.18,0.00
+H4,,,Unknown,SybrGreen,,33.10,33.10,0.00
+H5,,,Unknown,SybrGreen,,34.07,34.07,0.00
+H6,,,Unknown,SybrGreen,,35.23,35.23,0.00
+H7,,,Unknown,SybrGreen,,31.27,31.27,0.00
+H8,,,Unknown,SybrGreen,,31.48,31.48,0.00
+H9,,,Unknown,SybrGreen,,37.52,37.52,0.00
+H10,,,Unknown,SybrGreen,,34.10,34.10,0.00
+H11,,,Unknown,SybrGreen,,32.91,32.91,0.00
+H12,,,Unknown,SybrGreen,,34.02,34.02,0.00

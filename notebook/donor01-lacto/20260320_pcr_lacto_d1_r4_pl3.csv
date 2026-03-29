@@ -1,0 +1,115 @@
+Title:,Lactobacillus and Enterobacteriaceae 
+Date/Time:,19/03/2026 13:53:08,19/03/2026 15:43:55
+Device:,qTOWER96.iris.mock,3110C-3924204
+Operator:,
+Comments:,
+Colors+Dyes:,Pos,Color Module,Dye,Gain,Meas,Refr
+,1,Blue.470.520.11.3,SYBRGreen,50,*,
+Heated Lid:,100°C
+TC Protocol:,steps,scan,°C,m:s,goto,loops,delta Temp(°C),delta Time (s),ramp (°C/s
+,1,,95,10:00,0,0,0,0,8
+,2,,95,00:10,0,0,0,0,8
+,3,,60,00:45,0,0,0,0,5.5
+,4,*,72,00:20,2,39,0,0,5.5
+,5,,50,00:26,5,45,0.01,0,5.5
+Melt active:,Yes
+Meas. Repeats:,3
+Color Comp.:,
+
+Well,,Sample name,Sample type,Dye,Gene,Ct,Mean Ct,Std. dev. Ct
+A1,,,Unknown,SYBRGreen,,6.60,6.60,0.00
+A2,,,Unknown,SYBRGreen,,6.80,6.80,0.00
+A3,,,Unknown,SYBRGreen,,7.83,7.83,0.00
+A4,,,Unknown,SYBRGreen,,7.74,7.74,0.00
+A5,,,Unknown,SYBRGreen,,10.78,10.78,0.00
+A6,,,Unknown,SYBRGreen,,10.69,10.69,0.00
+A7,,,Unknown,SYBRGreen,,13.61,13.61,0.00
+A8,,,Unknown,SYBRGreen,,13.50,13.50,0.00
+A9,,,Unknown,SYBRGreen,,17.23,17.23,0.00
+A10,,,Unknown,SYBRGreen,,17.11,17.11,0.00
+A11,,,Unknown,SYBRGreen,,20.56,20.56,0.00
+A12,,,Unknown,SYBRGreen,,20.57,20.57,0.00
+B1,,,Unknown,SYBRGreen,,23.21,23.21,0.00
+B2,,,Unknown,SYBRGreen,,23.47,23.47,0.00
+B3,,,Unknown,SYBRGreen,,25.65,25.65,0.00
+B4,,,Unknown,SYBRGreen,,25.43,25.43,0.00
+B5,,,Unknown,SYBRGreen,,25.29,25.29,0.00
+B6,,,Unknown,SYBRGreen,,25.27,25.27,0.00
+B7,,,Unknown,SYBRGreen,,26.15,26.15,0.00
+B8,,,Unknown,SYBRGreen,,25.94,25.94,0.00
+B9,,,Unknown,SYBRGreen,,26.58,26.58,0.00
+B10,,,Unknown,SYBRGreen,,26.48,26.48,0.00
+B11,,,Unknown,SYBRGreen,,26.37,26.37,0.00
+B12,,,Unknown,SYBRGreen,,25.71,25.71,0.00
+C1,,,Unknown,SYBRGreen,,25.56,25.56,0.00
+C2,,,Unknown,SYBRGreen,,25.83,25.83,0.00
+C3,,,Unknown,SYBRGreen,,26.34,26.34,0.00
+C4,,,Unknown,SYBRGreen,,26.48,26.48,0.00
+C5,,,Unknown,SYBRGreen,,25.93,25.93,0.00
+C6,,,Unknown,SYBRGreen,,25.84,25.84,0.00
+C7,,,Unknown,SYBRGreen,,25.99,25.99,0.00
+C8,,,Unknown,SYBRGreen,,25.67,25.67,0.00
+C9,,,Unknown,SYBRGreen,,26.34,26.34,0.00
+C10,,,Unknown,SYBRGreen,,26.05,26.05,0.00
+C11,,,Unknown,SYBRGreen,,26.70,26.70,0.00
+C12,,,Unknown,SYBRGreen,,26.46,26.46,0.00
+D1,,,Unknown,SYBRGreen,,26.23,26.23,0.00
+D2,,,Unknown,SYBRGreen,,26.16,26.16,0.00
+D3,,,Unknown,SYBRGreen,,26.39,26.39,0.00
+D4,,,Unknown,SYBRGreen,,26.02,26.02,0.00
+D5,,,Unknown,SYBRGreen,,No Ct,,
+D6,,,Unknown,SYBRGreen,,No Ct,,
+D7,,,Unknown,SYBRGreen,,No Ct,,
+D8,,,Unknown,SYBRGreen,,No Ct,,
+D9,,,Unknown,SYBRGreen,,No Ct,,
+D10,,,Unknown,SYBRGreen,,No Ct,,
+D11,,,Unknown,SYBRGreen,,No Ct,,
+D12,,,Unknown,SYBRGreen,,No Ct,,
+E1,,,Unknown,SYBRGreen,,No Ct,,
+E2,,,Unknown,SYBRGreen,,No Ct,,
+E3,,,Unknown,SYBRGreen,,No Ct,,
+E4,,,Unknown,SYBRGreen,,No Ct,,
+E5,,,Unknown,SYBRGreen,,No Ct,,
+E6,,,Unknown,SYBRGreen,,No Ct,,
+E7,,,Unknown,SYBRGreen,,No Ct,,
+E8,,,Unknown,SYBRGreen,,No Ct,,
+E9,,,Unknown,SYBRGreen,,No Ct,,
+E10,,,Unknown,SYBRGreen,,No Ct,,
+E11,,,Unknown,SYBRGreen,,No Ct,,
+E12,,,Unknown,SYBRGreen,,No Ct,,
+F1,,,Unknown,SYBRGreen,,No Ct,,
+F2,,,Unknown,SYBRGreen,,No Ct,,
+F3,,,Unknown,SYBRGreen,,No Ct,,
+F4,,,Unknown,SYBRGreen,,No Ct,,
+F5,,,Unknown,SYBRGreen,,No Ct,,
+F6,,,Unknown,SYBRGreen,,No Ct,,
+F7,,,Unknown,SYBRGreen,,No Ct,,
+F8,,,Unknown,SYBRGreen,,No Ct,,
+F9,,,Unknown,SYBRGreen,,No Ct,,
+F10,,,Unknown,SYBRGreen,,No Ct,,
+F11,,,Unknown,SYBRGreen,,No Ct,,
+F12,,,Unknown,SYBRGreen,,No Ct,,
+G1,,,Unknown,SYBRGreen,,No Ct,,
+G2,,,Unknown,SYBRGreen,,No Ct,,
+G3,,,Unknown,SYBRGreen,,No Ct,,
+G4,,,Unknown,SYBRGreen,,No Ct,,
+G5,,,Unknown,SYBRGreen,,No Ct,,
+G6,,,Unknown,SYBRGreen,,No Ct,,
+G7,,,Unknown,SYBRGreen,,No Ct,,
+G8,,,Unknown,SYBRGreen,,No Ct,,
+G9,,,Unknown,SYBRGreen,,No Ct,,
+G10,,,Unknown,SYBRGreen,,No Ct,,
+G11,,,Unknown,SYBRGreen,,No Ct,,
+G12,,,Unknown,SYBRGreen,,No Ct,,
+H1,,,Unknown,SYBRGreen,,No Ct,,
+H2,,,Unknown,SYBRGreen,,No Ct,,
+H3,,,Unknown,SYBRGreen,,No Ct,,
+H4,,,Unknown,SYBRGreen,,No Ct,,
+H5,,,Unknown,SYBRGreen,,No Ct,,
+H6,,,Unknown,SYBRGreen,,No Ct,,
+H7,,,Unknown,SYBRGreen,,No Ct,,
+H8,,,Unknown,SYBRGreen,,No Ct,,
+H9,,,Unknown,SYBRGreen,,No Ct,,
+H10,,,Unknown,SYBRGreen,,No Ct,,
+H11,,,Unknown,SYBRGreen,,No Ct,,
+H12,,,Unknown,SYBRGreen,,No Ct,,
