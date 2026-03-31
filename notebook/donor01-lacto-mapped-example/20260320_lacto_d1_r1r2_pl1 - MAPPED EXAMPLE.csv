@@ -1,0 +1,114 @@
+Title:,,,,,,,,,
+Date/Time:,19/03/2026 11:27,19/03/2026 11:27,,,,,,,
+Device:,qTOWER96.iris.mock,3107D-1252,,,,,,,
+Operator:,,,,,,,,,
+Comments:,,,,,,,,,
+Colors+Dyes:,Pos,Color Module,Dye,Gain,Meas,Refr,,,
+,1,Blue.470.520.11.3,SybrGreen,5,*,,,,
+Heated Lid:,100°C,,,,,,,,
+TC Protocol:,steps,scan,°C,m:s,goto,loops,delta Temp(°C),delta Time (s),ramp (°C/s
+,1,,95,10:00,0,0,0,0,8
+,2,,95,00:10,0,0,0,0,8
+,3,,60,00:45,0,0,0,0,6
+,4,*,72,00:20,2,39,0,0,6
+Melt active:,No,,,,,,,,
+Meas. Repeats:,3,,,,,,,,
+Color Comp.:,,,,,,,,,
+,,,,,,,,,
+Well,,Sample name,Sample type,Dye,Gene,Ct,Mean Ct,Std. dev. Ct,Conc. Std.
+A1,,5000000000,Standard,SybrGreen,,6.33,6.33,0,5000000000
+A2,,5000000000,Standard,SybrGreen,,6.48,6.48,0,5000000000
+A3,,500000000,Standard,SybrGreen,,7.69,7.69,0,500000000
+A4,,500000000,Standard,SybrGreen,,7.68,7.68,0,500000000
+A5,,50000000,Standard,SybrGreen,,10.08,10.08,0,50000000
+A6,,50000000,Standard,SybrGreen,,10.6,10.6,0,50000000
+A7,,5000000,Standard,SybrGreen,,14.02,14.02,0,5000000
+A8,,5000000,Standard,SybrGreen,,14.15,14.15,0,5000000
+A9,,500000,Standard,SybrGreen,,17.47,17.47,0,500000
+A10,,500000,Standard,SybrGreen,,17.24,17.24,0,500000
+A11,,50000,Standard,SybrGreen,,20.33,20.33,0,50000
+A12,,50000,Standard,SybrGreen,,20.54,20.54,0,50000
+B1,,5000,Standard,SybrGreen,,23.23,23.23,0,5000
+B2,,5000,Standard,SybrGreen,,23.95,23.95,0,5000
+B3,,500,Standard,SybrGreen,,27.83,27.83,0,500
+B4,,500,Standard,SybrGreen,,27.79,27.79,0,500
+B5,,negative,NTC,SybrGreen,,No Ct,,,0
+B6,,negative,NTC,SybrGreen,,No Ct,,,0
+B7,,FS_1_D0,Unknown,SybrGreen,,25.59,25.59,0,0
+B8,,FS_1_D0,Unknown,SybrGreen,,25.3,25.3,0,0
+B9,,R1_V1_D6,Unknown,SybrGreen,,35.36,35.36,0,0
+B10,,R1_V1_D6,Unknown,SybrGreen,,35.35,35.35,0,0
+B11,,R1_V3_D6,Unknown,SybrGreen,,33.7,33.7,0,0
+B12,,R1_V3_D6,Unknown,SybrGreen,,34.1,34.1,0,0
+C1,,R1_V1_D10,Unknown,SybrGreen,,33.52,33.52,0,0
+C2,,R1_V1_D10,Unknown,SybrGreen,,33.15,33.15,0,0
+C3,,R1_V3_D10,Unknown,SybrGreen,,33.15,33.15,0,0
+C4,,R1_V3_D10,Unknown,SybrGreen,,33.08,33.08,0,0
+C5,,R1_V1_D14,Unknown,SybrGreen,,32.56,32.56,0,0
+C6,,R1_V1_D14,Unknown,SybrGreen,,32.82,32.82,0,0
+C7,,R1_V3_D14,Unknown,SybrGreen,,34.34,34.34,0,0
+C8,,R1_V3_D14,Unknown,SybrGreen,,34.32,34.32,0,0
+C9,,R1_V1_D17,Unknown,SybrGreen,,32.2,32.2,0,0
+C10,,R1_V1_D17,Unknown,SybrGreen,,32.21,32.21,0,0
+C11,,R1_V3_D17,Unknown,SybrGreen,,31.96,31.96,0,0
+C12,,R1_V3_D17,Unknown,SybrGreen,,31.05,31.05,0,0
+D1,,R1_V1_D19,Unknown,SybrGreen,,38.66,38.66,0,0
+D2,,R1_V1_D19,Unknown,SybrGreen,,No Ct,,,0
+D3,,R1_V3_D19,Unknown,SybrGreen,,33.2,33.2,0,0
+D4,,R1_V3_D19,Unknown,SybrGreen,,33.18,33.18,0,0
+D5,,R1_V1_D22,Unknown,SybrGreen,,32.16,32.16,0,0
+D6,,R1_V1_D22,Unknown,SybrGreen,,31.53,31.53,0,0
+D7,,R1_V3_D22,Unknown,SybrGreen,,33.13,33.13,0,0
+D8,,R1_V3_D22,Unknown,SybrGreen,,31.6,31.6,0,0
+D9,,R1_V1_D24,Unknown,SybrGreen,,34.55,34.55,0,0
+D10,,R1_V1_D24,Unknown,SybrGreen,,34.27,34.27,0,0
+D11,,R1_V3_D24,Unknown,SybrGreen,,29.67,29.67,0,0
+D12,,R1_V3_D24,Unknown,SybrGreen,,30.38,30.38,0,0
+E1,,R1_V1_D27,Unknown,SybrGreen,,35.35,35.35,0,0
+E2,,R1_V1_D27,Unknown,SybrGreen,,37,37,0,0
+E3,,R1_V3_D27,Unknown,SybrGreen,,35.53,35.53,0,0
+E4,,R1_V3_D27,Unknown,SybrGreen,,33.56,33.56,0,0
+E5,,R1_V1_D29,Unknown,SybrGreen,,32.26,32.26,0,0
+E6,,R1_V1_D29,Unknown,SybrGreen,,33.24,33.24,0,0
+E7,,R1_V3_D29,Unknown,SybrGreen,,39.18,39.18,0,0
+E8,,R1_V3_D29,Unknown,SybrGreen,,36.02,36.02,0,0
+E9,,R1_V1_D31,Unknown,SybrGreen,,33.67,33.67,0,0
+E10,,R1_V1_D31,Unknown,SybrGreen,,33.29,33.29,0,0
+E11,,R1_V3_D31,Unknown,SybrGreen,,32.87,32.87,0,0
+E12,,R1_V3_D31,Unknown,SybrGreen,,33.7,33.7,0,0
+F1,,R1_V1_D34,Unknown,SybrGreen,,33.52,33.52,0,0
+F2,,R1_V1_D34,Unknown,SybrGreen,,33.58,33.58,0,0
+F3,,R1_V3_D34,Unknown,SybrGreen,,34.19,34.19,0,0
+F4,,R1_V3_D34,Unknown,SybrGreen,,33.19,33.19,0,0
+F5,,R2_V1_D6,Unknown,SybrGreen,,32.53,32.53,0,0
+F6,,R2_V1_D6,Unknown,SybrGreen,,33.1,33.1,0,0
+F7,,R2_V3_D6,Unknown,SybrGreen,,35.06,35.06,0,0
+F8,,R2_V3_D6,Unknown,SybrGreen,,34.9,34.9,0,0
+F9,,R2_V1_D10,Unknown,SybrGreen,,33.55,33.55,0,0
+F10,,R2_V1_D10,Unknown,SybrGreen,,33.49,33.49,0,0
+F11,,R2_V3_D10,Unknown,SybrGreen,,35.15,35.15,0,0
+F12,,R2_V3_D10,Unknown,SybrGreen,,37.86,37.86,0,0
+G1,,R2_V1_D14,Unknown,SybrGreen,,35.02,35.02,0,0
+G2,,R2_V1_D14,Unknown,SybrGreen,,33.27,33.27,0,0
+G3,,R2_V3_D14,Unknown,SybrGreen,,31.17,31.17,0,0
+G4,,R2_V3_D14,Unknown,SybrGreen,,30.73,30.73,0,0
+G5,,R2_V1_D17,Unknown,SybrGreen,,33.55,33.55,0,0
+G6,,R2_V1_D17,Unknown,SybrGreen,,35.65,35.65,0,0
+G7,,R2_V3_D17,Unknown,SybrGreen,,33.21,33.21,0,0
+G8,,R2_V3_D17,Unknown,SybrGreen,,33.37,33.37,0,0
+G9,,R2_V1_D19,Unknown,SybrGreen,,31.9,31.9,0,0
+G10,,R2_V1_D19,Unknown,SybrGreen,,32.07,32.07,0,0
+G11,,R2_V3_D19,Unknown,SybrGreen,,34.17,34.17,0,0
+G12,,R2_V3_D19,Unknown,SybrGreen,,33.14,33.14,0,0
+H1,,R2_V1_D22,Unknown,SybrGreen,,32.86,32.86,0,0
+H2,,R2_V1_D22,Unknown,SybrGreen,,31.09,31.09,0,0
+H3,,R2_V3_D22,Unknown,SybrGreen,,33.18,33.18,0,0
+H4,,R2_V3_D22,Unknown,SybrGreen,,33.1,33.1,0,0
+H5,,R2_V1_D24,Unknown,SybrGreen,,34.07,34.07,0,0
+H6,,R2_V1_D24,Unknown,SybrGreen,,35.23,35.23,0,0
+H7,,R2_V3_D24,Unknown,SybrGreen,,31.27,31.27,0,0
+H8,,R2_V3_D24,Unknown,SybrGreen,,31.48,31.48,0,0
+H9,,R2_V1_D27,Unknown,SybrGreen,,37.52,37.52,0,0
+H10,,R2_V1_D27,Unknown,SybrGreen,,34.1,34.1,0,0
+H11,,R2_V3_D27,Unknown,SybrGreen,,32.91,32.91,0,0
+H12,,R2_V3_D27,Unknown,SybrGreen,,34.02,34.02,0,0
